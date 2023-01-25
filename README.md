@@ -1,4 +1,4 @@
-# Self-supervised-learning
+# Self-supervised learning
 
 Slides for the tutorial at NLDL 2023, Tromsø, Norway:
 
