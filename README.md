@@ -6,7 +6,7 @@
 
 - Video for the expert session at ICASSP 2023
 
-    [Z.-H. Tan, Expert Session: Self-Supervised Learning: Training Targets and Loss Functions at ICASSP 2022, Singapore](https://rc.signalprocessingsociety.org/conferences/icassp-2022/SPSICASSP22VID1969.html) 
+    [Z.-H. Tan, Expert Session: Self-Supervised Learning: Training Targets and Loss Functions at ICASSP 2022, Singapore.](https://rc.signalprocessingsociety.org/conferences/icassp-2022/SPSICASSP22VID1969.html) 
 
 - PhD stipend
 
