@@ -10,7 +10,7 @@
 
 - Doctoral course at Universit of Oulu, Finland
 
-    [Self-Supervised Learning for Multimodal Data: From Models to Loss Functions](https://www.oulu.fi/en/events/doctoral-course-self-supervised-learning-multimodal-data-models-loss-functions)
+    [Self-Supervised Learning for Multimodal Data: From Models to Loss Functions (Z.-H. Tan)](https://www.oulu.fi/en/events/doctoral-course-self-supervised-learning-multimodal-data-models-loss-functions)
 
 - PhD stipend
 
