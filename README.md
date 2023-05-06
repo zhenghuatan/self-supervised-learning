@@ -8,6 +8,10 @@
 
     [Z.-H. Tan, Expert Session: Self-Supervised Learning: Training Targets and Loss Functions at ICASSP 2022, Singapore.](https://rc.signalprocessingsociety.org/conferences/icassp-2022/SPSICASSP22VID1969.html) 
 
+- Doctoral course at Universit of Oulu, Finland
+
+[Self-Supervised Learning for Multimodal Data: From Models to Loss Functions](https://www.oulu.fi/en/events/doctoral-course-self-supervised-learning-multimodal-data-models-loss-functions)
+
 - PhD stipend
 
     We have one PhD position available in Self-Supervised Learning for Decoding of Complex Signals, funded by the [Pioneer Centre for AI](aicentre.dk). The project aims to develop novel semi-supervised and self-supervised methods for modeling signals of various modalities (e.g., speech, audio, vision, text) and analyse the complexity of the developed models. Good opportunities to do research at other units and the headquarter of the Pioneer Centre as well as abroad.
