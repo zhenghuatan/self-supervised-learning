@@ -15,6 +15,6 @@
 - PhD stipend
 
     We have one PhD position available in Self-Supervised Learning for Decoding of Complex Signals, funded by the [Pioneer Centre for AI](aicentre.dk). The project aims to develop novel semi-supervised and self-supervised methods for modeling signals of various modalities (e.g., speech, audio, vision, text) and analyse the complexity of the developed models. Good opportunities to do research at other units and the headquarter of the Pioneer Centre as well as abroad.
-Deadline: 6 June 2023. [Online application here]([https://www.vacancies.aau.dk/show-vacancy/?vacancy=1204355](https://www.vacancies.aau.dk/phd-positions/show-vacancy?vacancyId=1210410)). 
+Deadline: 6 June 2023. [Online application here](https://www.vacancies.aau.dk/show-vacancy/?vacancy=1204355](https://www.vacancies.aau.dk/phd-positions/show-vacancy?vacancyId=1210410). 
 
 - [2022 Workshop on Self-Supervised Learning for Signal Decoding](https://www.es.aau.dk/2022-workshop-on-self-supervised-learning-for-signal-decoding-e43083), Aalborg, Denmark, 14-14 October 2022. 
