@@ -18,3 +18,6 @@
 Deadline: 6 June 2023. [Online application here](https://www.vacancies.aau.dk/phd-positions/show-vacancy?vacancyId=1210410). 
 
 - [2022 Workshop on Self-Supervised Learning for Signal Decoding](https://www.es.aau.dk/2022-workshop-on-self-supervised-learning-for-signal-decoding-e43083), Aalborg, Denmark, 14-14 October 2022. 
+
+- Our recent works
+Sarthak Yadav, Sergios Theodoridis, Lars Kai Hansen, and Zheng-Hua Tan, "[Masked Autoencoders with Multi-Window Attention Are Better Audio Learners](https://arxiv.org/pdf/2306.00561.pdf)," arXiv preprint	arXiv:2306.00561 (2023).
