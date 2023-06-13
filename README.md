@@ -22,4 +22,5 @@ Deadline: 6 June 2023. [Online application here](https://www.vacancies.aau.dk/ph
 - Our recent works
 
     Sarthak Yadav, Sergios Theodoridis, Lars Kai Hansen, and Zheng-Hua Tan, "[Masked Autoencoders with Multi-Window Attention Are Better Audio Learners](https://arxiv.org/pdf/2306.00561.pdf)," arXiv preprint	arXiv:2306.00561 (2023).
+    
     Holger Severin Bovbjerg, and Zheng-Hua Tan. "[Improving Label-Deficient Keyword Spotting Using Self-Supervised Pretraining](https://arxiv.org/pdf/2210.01703.pdf)." ICASSP 2023 Workshops (2023).
