@@ -28,4 +28,10 @@ Deadline: 6 June 2023. [Online application here](https://www.vacancies.aau.dk/ph
     
     Holger Severin Bovbjerg, and Zheng-Hua Tan. "[Improving Label-Deficient Keyword Spotting Using Self-Supervised Pretraining](https://arxiv.org/pdf/2210.01703.pdf)." ICASSP 2023 Workshops (2023).
 
-  Achintya Kumar Sarkar, Zheng-Hua Tan, Hao Tang, Suwon Shon, and James Glass. "[Time-contrastive learning based deep bottleneck features for text-dependent speaker verification](https://arxiv.org/pdf/1905.04554.pdf)." IEEE/ACM Transactions on Audio, Speech, and Language Processing 27, no. 8 (2019): 1267-1279.
+    Yuying Xie, Thomas Arildsen, and Zheng-Hua Tan, “[Improved Disentangled Speech Representations Using Contrastive Learning in Factorized Hierarchical Variational Autoencoder](https://browse.arxiv.org/pdf/2211.08191.pdf)” The 31st European Signal Processing Conference (EUSIPCO 2023), September 4-8, 2023, Helsinki, Finland.
+
+    Achintya kr. Sarkar, and Zheng-Hua Tan. "[Vocal tract length perturbation for text-dependent speaker verification with autoregressive prediction coding](https://ieeexplore.ieee.org/abstract/document/9339931)." IEEE Signal Processing Letters 28 (2021): 364-368.
+
+    Yuying Xie, Thomas Arildsen, and Zheng-Hua Tan. "[Disentangled speech representation learning based on factorized hierarchical variational autoencoder with self-supervised objective](https://browse.arxiv.org/pdf/2204.02166.pdf)." 2021 IEEE 31st International Workshop on Machine Learning for Signal Processing (MLSP). IEEE, 2021.
+
+    Achintya Kumar Sarkar, Zheng-Hua Tan, Hao Tang, Suwon Shon, and James Glass. "[Time-contrastive learning based deep bottleneck features for text-dependent speaker verification](https://arxiv.org/pdf/1905.04554.pdf)." IEEE/ACM Transactions on Audio, Speech, and Language Processing 27, no. 8 (2019): 1267-1279.
