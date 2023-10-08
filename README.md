@@ -26,7 +26,7 @@ Deadline: 6 June 2023. [Online application here](https://www.vacancies.aau.dk/ph
 
     Sarthak Yadav, Sergios Theodoridis, Lars Kai Hansen, and Zheng-Hua Tan, "[Masked Autoencoders with Multi-Window Attention Are Better Audio Learners](https://arxiv.org/pdf/2306.00561.pdf)," arXiv preprint	arXiv:2306.00561 (2023).
     
-    Holger Severin Bovbjerg, and Zheng-Hua Tan. "[Improving Label-Deficient Keyword Spotting Using Self-Supervised Pretraining](https://arxiv.org/pdf/2210.01703.pdf)." ICASSP 2023 Workshops (2023).
+    Holger Severin Bovbjerg, and Zheng-Hua Tan. "[Improving Label-Deficient Keyword Spotting Using Self-Supervised Pretraining](https://arxiv.org/pdf/2210.01703.pdf)." ICASSP 2023 Satellite Workshop: SASB 2023: Self-Supervision in Audio, Speech and Beyond, Rhodes Island, Greece, June 4-10, 2023.
 
     Yuying Xie, Thomas Arildsen, and Zheng-Hua Tan, “[Improved Disentangled Speech Representations Using Contrastive Learning in Factorized Hierarchical Variational Autoencoder](https://browse.arxiv.org/pdf/2211.08191.pdf)” The 31st European Signal Processing Conference (EUSIPCO 2023), September 4-8, 2023, Helsinki, Finland.
 
