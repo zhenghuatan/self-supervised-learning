@@ -1,4 +1,6 @@
 # Self-supervised learning
+- PhD course at Aalborg University
+  Self-Supervised Learning, November 18-20, 2024
 
 - Slides for the tutorial at NLDL 2023
 
