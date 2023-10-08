@@ -35,3 +35,6 @@ Deadline: 6 June 2023. [Online application here](https://www.vacancies.aau.dk/ph
     Yuying Xie, Thomas Arildsen, and Zheng-Hua Tan. "[Disentangled speech representation learning based on factorized hierarchical variational autoencoder with self-supervised objective](https://browse.arxiv.org/pdf/2204.02166.pdf)." 2021 IEEE 31st International Workshop on Machine Learning for Signal Processing (MLSP). IEEE, 2021.
 
     Achintya Kumar Sarkar, Zheng-Hua Tan, Hao Tang, Suwon Shon, and James Glass. "[Time-contrastive learning based deep bottleneck features for text-dependent speaker verification](https://arxiv.org/pdf/1905.04554.pdf)." IEEE/ACM Transactions on Audio, Speech, and Language Processing 27, no. 8 (2019): 1267-1279.
+
+    Achintya Kr. Sarkar and Zheng-Hua Tan, “[Time-Contrastive Learning Based DNN Bottleneck Features for Text-Dependent Speaker Verification](https://browse.arxiv.org/pdf/1704.02373v1.pdf),” NIPS 2017 Time Series Workshop, Dec. 8, 2017, Long Beach, CA, USA. 
+
