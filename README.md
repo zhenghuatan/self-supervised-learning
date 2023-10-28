@@ -15,6 +15,9 @@
 
     [Self-Supervised Learning for Multimodal Data: From Models to Loss Functions (Z.-H. Tan)](https://www.oulu.fi/en/events/doctoral-course-self-supervised-learning-multimodal-data-models-loss-functions)
 
+- Postdoc
+    We are excited to announce a two-year postdoc position in self-supervised and weakly-supervised learning for signals, e.g. speech, audio, text, and images. While the success of deep learning largely relies on the presence of substantial amounts of labeled data, the prevailing reality often entails the abundance of unlabeled or inadequately labeled data. This project focuses on the development of weakly-supervised and self-supervised learning methods to harness these data resources and gain deeper insights into the underlying mechanisms of these methods. The position is funded by Pioneer Centre for AI, Denmark. [Online application here](https://www.vacancies.aau.dk/scientific-positions/show-vacancy?vacancyId=1215017).
+  
 - PhD stipend
 
     We have one PhD position available in Self-Supervised Learning for Decoding of Complex Signals, funded by the [Pioneer Centre for AI](aicentre.dk). The project aims to develop novel semi-supervised and self-supervised methods for modeling signals of various modalities (e.g., speech, audio, vision, text) and analyse the complexity of the developed models. Good opportunities to do research at other units and the headquarter of the Pioneer Centre as well as abroad.
