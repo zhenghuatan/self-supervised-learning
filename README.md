@@ -7,7 +7,7 @@
 
     [Z.-H. Tan, Tutorial on Self-Supervised Learning: Training Targets and Loss Functions at Northern Lights Deep Learning Conference 2023, Tromsø, Norway](https://github.com/zhenghuatan/self-supervised-learning/blob/main/20230109_NLDL_Tutorial_Tan.pdf).
 
-- Video for the expert session at ICASSP 2023
+- Video for the expert session at ICASSP 2022
 
     [Z.-H. Tan, Expert Session: Self-Supervised Learning: Training Targets and Loss Functions at ICASSP 2022, Singapore.](https://rc.signalprocessingsociety.org/conferences/icassp-2022/SPSICASSP22VID1969.html) 
 
@@ -17,7 +17,7 @@
 
 - Postdoc
 
-    We are excited to announce a two-year postdoc position in self-supervised and weakly-supervised learning for signals, e.g. speech, audio, text, and images. While the success of deep learning largely relies on the presence of substantial amounts of labeled data, the prevailing reality often entails the abundance of unlabeled or inadequately labeled data. This project focuses on the development of weakly-supervised and self-supervised learning methods to harness these data resources and gain deeper insights into the underlying mechanisms of these methods. The position is funded by Pioneer Centre for AI, Denmark. [Online application here](https://www.vacancies.aau.dk/scientific-positions/show-vacancy?vacancyId=1215017).
+    We are excited to announce a two-year postdoc position in self-supervised and weakly-supervised learning for signals, e.g. speech, audio, text, and images. While the success of deep learning largely relies on the presence of substantial amounts of labeled data, the prevailing reality often entails the abundance of unlabeled or inadequately labeled data. This project focuses on the development of weakly-supervised and self-supervised learning methods to harness these data resources and gain deeper insights into the underlying mechanisms of these methods. The position is funded by Pioneer Centre for AI, Denmark. Deadline: 8 November 2023. [Online application here](https://www.vacancies.aau.dk/scientific-positions/show-vacancy?vacancyId=1215017).
   
 - PhD stipend
 
