@@ -30,7 +30,7 @@ Deadline: 6 June 2023. [Online application here](https://www.vacancies.aau.dk/ph
 
     Holger Severin Bovbjerg, Jesper Jensen, Jan Østergaard, and Zheng-Hua Tan, "[Self-supervised Pretraining for Robust Personalized Voice Activity Detection in Adverse Conditions](https://arxiv.org/pdf/2312.16613.pdf)," IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Seoul, Korea, 14-19 April 2024.
 
-    Sarthak Yadav, Sergios Theodoridis, Lars Kai Hansen, and Zheng-Hua Tan, "[Masked Autoencoders with Multi-Window Attention Are Better Audio Learners](https://arxiv.org/pdf/2306.00561.pdf)," arXiv preprint	arXiv:2306.00561 (2023).
+    Sarthak Yadav, Sergios Theodoridis, Lars Kai Hansen, and Zheng-Hua Tan, "[Masked Autoencoders with Multi-Window Attention Are Better Audio Learners](https://arxiv.org/pdf/2306.00561.pdf),"  The Twelfth International Conference on Learning Representations (ICLR), Vienna, Austria, 7-11 May 2024. 31% acceptance rate.
     
     Holger Severin Bovbjerg, and Zheng-Hua Tan, "[Improving Label-Deficient Keyword Spotting Using Self-Supervised Pretraining](https://arxiv.org/pdf/2210.01703.pdf)," ICASSP 2023 Satellite Workshop: SASB 2023: Self-Supervision in Audio, Speech and Beyond, Rhodes Island, Greece, June 4-10, 2023.
 
