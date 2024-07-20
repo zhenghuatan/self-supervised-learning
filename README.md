@@ -28,7 +28,7 @@ Deadline: 6 June 2023. [Online application here](https://www.vacancies.aau.dk/ph
 
 - Some recent works
 
-    Sarthak Yadav and Zheng-Hua Tan, "[Audio Mamba: Selective State Spaces for Self-Supervised Audio Representations](https://arxiv.org/pdf/2406.02178)," INTERSPEECH 2024, 1-5 September 2024 Kos Island, Greece.
+    Sarthak Yadav and Zheng-Hua Tan, "[Audio Mamba: Selective State Spaces for Self-Supervised Audio Representations](https://arxiv.org/pdf/2406.02178)," INTERSPEECH 2024, 1-5 September 2024 Kos Island, Greece. [Source code available](https://github.com/SarthakYadav/audio-mamba-official). 
   
     Sarthak Yadav, Sergios Theodoridis, Lars Kai Hansen, and Zheng-Hua Tan, "[Masked Autoencoders with Multi-Window Attention Are Better Audio Learners](https://arxiv.org/pdf/2306.00561.pdf),"  The Twelfth International Conference on Learning Representations (ICLR), Vienna, Austria, 7-11 May 2024. 31% acceptance rate.
     
