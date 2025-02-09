@@ -1,4 +1,9 @@
 # Self-supervised learning
+- PhD stipend
+
+    We have one PhD stipend/Integrated stipend in Multimodal Reasoning with Large Language Models, funded by the [Pioneer Centre for AI](aicentre.dk). The project aims to explore and advance these capabilities in reasoning across multiple data modalities, including but not limited to text, speech and audio. Good opportunities to do research at other units and the headquarter of the Pioneer Centre as well as abroad.
+Deadline: 16 March 2025. [Online application here](https://www.vacancies.aau.dk/phd-positions/show-vacancy/vacancyId/1219439). 
+
 - PhD course at Aalborg University
 
   [Self-Supervised Learning](https://phd.moodle.aau.dk/course/index.php?categoryid=304), November 18-20, 2024. Concluded successfully with 40 participants. 
@@ -17,12 +22,11 @@
 
 - Postdoc
 
-    We are excited to announce a two-year postdoc position in self-supervised and weakly-supervised learning for signals, e.g. speech, audio, text, and images. While the success of deep learning largely relies on the presence of substantial amounts of labeled data, the prevailing reality often entails the abundance of unlabeled or inadequately labeled data. This project focuses on the development of weakly-supervised and self-supervised learning methods to harness these data resources and gain deeper insights into the underlying mechanisms of these methods. The position is funded by Pioneer Centre for AI, Denmark. Deadline: 8 November 2023. [Online application here](https://www.vacancies.aau.dk/scientific-positions/show-vacancy?vacancyId=1215017).
+    We are excited to announce a two-year postdoc position in self-supervised and weakly-supervised learning for signals, e.g. speech, audio, text, and images. While the success of deep learning largely relies on the presence of substantial amounts of labeled data, the prevailing reality often entails the abundance of unlabeled or inadequately labeled data. This project focuses on the development of weakly-supervised and self-supervised learning methods to harness these data resources and gain deeper insights into the underlying mechanisms of these methods. The position is funded by Pioneer Centre for AI, Denmark. Deadline: 8 November 2023. 
   
 - PhD stipend
 
-    We have one PhD position available in Self-Supervised Learning for Decoding of Complex Signals, funded by the [Pioneer Centre for AI](aicentre.dk). The project aims to develop novel semi-supervised and self-supervised methods for modeling signals of various modalities (e.g., speech, audio, vision, text) and analyse the complexity of the developed models. Good opportunities to do research at other units and the headquarter of the Pioneer Centre as well as abroad.
-Deadline: 6 June 2023. [Online application here](https://www.vacancies.aau.dk/phd-positions/show-vacancy?vacancyId=1210410). 
+    We have one PhD position available in Self-Supervised Learning for Decoding of Complex Signals, funded by the [Pioneer Centre for AI](aicentre.dk). The project aims to develop novel semi-supervised and self-supervised methods for modeling signals of various modalities (e.g., speech, audio, vision, text) and analyse the complexity of the developed models. Good opportunities to do research at other units and the headquarter of the Pioneer Centre as well as abroad. Deadline: 6 June 2023.  
 
 - [2022 Workshop on Self-Supervised Learning for Signal Decoding](https://www.es.aau.dk/2022-workshop-on-self-supervised-learning-for-signal-decoding-e43083), Aalborg, Denmark, 14-14 October 2022. 
 
