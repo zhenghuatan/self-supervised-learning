@@ -2,7 +2,7 @@
 - PhD stipend
 
     We have one PhD stipend/Integrated stipend in Multimodal Reasoning with Large Language Models, funded by the [Pioneer Centre for AI](aicentre.dk). The project aims to explore and advance these capabilities in reasoning across multiple data modalities, including but not limited to text, speech and audio. Good opportunities to do research at other units and the headquarter of the Pioneer Centre as well as abroad.
-Deadline: 16 March 2025. [Online application here](https://www.vacancies.aau.dk/phd-positions/show-vacancy/vacancyId/1219439) or [a LinkedIn post here](https://www.linkedin.com/feed/update/urn:li:activity:7293171480748605440/). 
+Deadline: 16 March 2025. Check [online application here](https://www.vacancies.aau.dk/phd-positions/show-vacancy/vacancyId/1219439) or [a LinkedIn post here](https://www.linkedin.com/feed/update/urn:li:activity:7293171480748605440/). 
 
 - PhD course at Aalborg University
 
